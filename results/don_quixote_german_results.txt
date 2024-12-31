@@ -1,0 +1,94 @@
+Don Quixote german version 
+
+Exact Counter:
+en: 3373
+de: 2853
+van: 1440
+te: 1305
+dat: 1303
+een: 1253
+hij: 1250
+het: 1183
+op: 987
+ik: 976
+
+Decreasing Probability Counter:
+   Top 10 most Frequent Words:
+       van: 21
+       de: 21
+       en: 20
+       zijn: 20
+       het: 19
+       een: 18
+       hij: 17
+       dat: 17
+       met: 17
+       te: 17
+   Errors:
+       Min Absolute Error: 0
+       Average Absolute Error: 6.3354073049890545
+       Max Absolute Error: 3353
+       Min Relative Error: 0.0
+       Average Relative Error: 0.16977300176015675
+       Max Relative Error: 0.9940705603320487
+
+Space Saving Counter with k = 20:
+   Top 10 most Frequent Words:
+       en: 3716
+       zijn: 3700
+       van: 3699
+       heer: 3699
+       de: 3699
+       harte: 3699
+       lief: 3699
+       heeft: 3698
+       schildknaap: 3698
+       een: 3698
+   Errors:
+       Min Absolute Error: 343
+       Average Absolute Error: 3060.2
+       Max Absolute Error: 3697
+       Min Relative Error: 0.10168989030536614
+       Average Relative Error: 403.7984588325618
+       Max Relative Error: 3697.0
+
+Space Saving Counter with k = 35:
+   Top 10 most Frequent Words:
+       en: 3373
+       de: 2858
+       van: 2056
+       zijn: 2056
+       hij: 2054
+       heer: 2054
+       hem: 2053
+       zonder: 2053
+       zorgen: 2053
+       men: 2053
+   Errors:
+       Min Absolute Error: 0
+       Average Absolute Error: 1604.4857142857143
+       Max Absolute Error: 2052
+       Min Relative Error: 0.0
+       Average Relative Error: 283.64414848150705
+       Max Relative Error: 2052.0
+
+Space Saving Counter with k = 100:
+   Top 10 most Frequent Words:
+       en: 3373
+       de: 2853
+       van: 1440
+       te: 1306
+       dat: 1303
+       een: 1253
+       hij: 1250
+       het: 1183
+       ik: 1001
+       op: 990
+   Errors:
+       Min Absolute Error: 0
+       Average Absolute Error: 456.74
+       Max Absolute Error: 637
+       Min Relative Error: 0.0
+       Average Relative Error: 123.474797139194
+       Max Relative Error: 637.0
+

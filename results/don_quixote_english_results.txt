@@ -1,0 +1,94 @@
+Don Quixote english version 
+
+Exact Counter:
+said: 1337
+quixote: 1122
+sancho: 953
+one: 877
+would: 764
+thou: 733
+say: 517
+may: 484
+without: 462
+see: 443
+
+Decreasing Probability Counter:
+   Top 10 most Frequent Words:
+       one: 18
+       without: 18
+       quixote: 17
+       sancho: 17
+       said: 17
+       thou: 17
+       see: 16
+       come: 16
+       well: 15
+       took: 15
+   Errors:
+       Min Absolute Error: 0
+       Average Absolute Error: 5.8706863274917005
+       Max Absolute Error: 1320
+       Min Relative Error: 0.0
+       Average Relative Error: 0.21939647033146933
+       Max Relative Error: 0.9872849663425579
+
+Space Saving Counter with k = 20:
+   Top 10 most Frequent Words:
+       keep: 5443
+       festival: 5443
+       remember: 5443
+       dema: 5443
+       great: 5442
+       adventure: 5442
+       presenting: 5442
+       declare: 5442
+       one: 5442
+       must: 5442
+   Errors:
+       Min Absolute Error: 4565
+       Average Absolute Error: 5302.5
+       Max Absolute Error: 5442
+       Min Relative Error: 5.205245153933865
+       Average Relative Error: 607.6299270698917
+       Max Relative Error: 5442.0
+
+Space Saving Counter with k = 35:
+   Top 10 most Frequent Words:
+       sancho: 3111
+       one: 3111
+       thou: 3110
+       devil: 3110
+       quixote: 3110
+       saw: 3110
+       cart: 3110
+       fancied: 3110
+       great: 3110
+       adventure: 3110
+   Errors:
+       Min Absolute Error: 1988
+       Average Absolute Error: 2923.0285714285715
+       Max Absolute Error: 3109
+       Min Relative Error: 1.7718360071301247
+       Average Relative Error: 313.84297779948776
+       Max Relative Error: 3109.0
+
+Space Saving Counter with k = 100:
+   Top 10 most Frequent Words:
+       said: 1446
+       sancho: 1224
+       quixote: 1157
+       thou: 1100
+       see: 1087
+       one: 1086
+       eyes: 1085
+       cart: 1085
+       devil: 1085
+       dulcinea: 1084
+   Errors:
+       Min Absolute Error: 35
+       Average Absolute Error: 958.53
+       Max Absolute Error: 1082
+       Min Relative Error: 0.031194295900178252
+       Average Relative Error: 149.02567848179999
+       Max Relative Error: 1082.0
+

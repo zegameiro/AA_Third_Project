@@ -1,0 +1,94 @@
+Don Quixote spanish version 
+
+Exact Counter:
+don: 2714
+quijote: 2241
+sancho: 2174
+si: 1968
+dijo: 1808
+tan: 1245
+señor: 1065
+así: 1065
+respondió: 1063
+ser: 1059
+
+Decreasing Probability Counter:
+   Top 10 most Frequent Words:
+       dijo: 20
+       don: 19
+       quijote: 18
+       tan: 18
+       si: 18
+       ser: 17
+       sancho: 17
+       bien: 17
+       dicho: 17
+       así: 17
+   Errors:
+       Min Absolute Error: 0
+       Average Absolute Error: 5.808770383428823
+       Max Absolute Error: 2695
+       Min Relative Error: 0.0
+       Average Relative Error: 0.18880827960645183
+       Max Relative Error: 0.9929992630803243
+
+Space Saving Counter with k = 20:
+   Top 10 most Frequent Words:
+       alguna: 9220
+       vale: 9220
+       fin: 9220
+       pues: 9219
+       deseo: 9219
+       poner: 9219
+       aborrecimiento: 9219
+       hombres: 9219
+       fingidas: 9219
+       disparatadas: 9219
+   Errors:
+       Min Absolute Error: 6505
+       Average Absolute Error: 8843.8
+       Max Absolute Error: 9216
+       Min Relative Error: 2.396831245394252
+       Average Relative Error: 524.1136491773475
+       Max Relative Error: 3072.0
+
+Space Saving Counter with k = 35:
+   Top 10 most Frequent Words:
+       don: 5282
+       sido: 5268
+       escritos: 5268
+       enteramente: 5268
+       deseaba: 5268
+       pues: 5268
+       deseo: 5268
+       poner: 5268
+       aborrecimiento: 5268
+       hombres: 5268
+   Errors:
+       Min Absolute Error: 2568
+       Average Absolute Error: 4985.742857142857
+       Max Absolute Error: 5267
+       Min Relative Error: 0.94620486366986
+       Average Relative Error: 606.8716008154936
+       Max Relative Error: 5267.0
+
+Space Saving Counter with k = 100:
+   Top 10 most Frequent Words:
+       don: 2714
+       sancho: 2417
+       quijote: 2268
+       si: 1988
+       dijo: 1895
+       sobrina: 1824
+       muerte: 1823
+       mal: 1823
+       largo: 1823
+       hacer: 1823
+   Errors:
+       Min Absolute Error: 0
+       Average Absolute Error: 1618.52
+       Max Absolute Error: 1821
+       Min Relative Error: 0.0
+       Average Relative Error: 213.450071370067
+       Max Relative Error: 1821.0
+

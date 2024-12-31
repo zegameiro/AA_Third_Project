@@ -1,0 +1,94 @@
+Don Quixote hungarian version 
+
+Exact Counter:
+is: 2129
+don: 1293
+sancho: 1164
+quijote: 1042
+ha: 884
+se: 500
+ő: 486
+mind: 376
+lovag: 353
+viszonzá: 290
+
+Decreasing Probability Counter:
+   Top 10 most Frequent Words:
+       is: 20
+       don: 19
+       ő: 18
+       ha: 17
+       sancho: 17
+       quijote: 16
+       se: 16
+       mind: 15
+       oly: 15
+       csakugyan: 14
+   Errors:
+       Min Absolute Error: 0
+       Average Absolute Error: 1.5572014093621918
+       Max Absolute Error: 2109
+       Min Relative Error: 0.0
+       Average Relative Error: 0.10013661945146947
+       Max Relative Error: 0.9906059182714889
+
+Space Saving Counter with k = 20:
+   Top 10 most Frequent Words:
+       szívből: 4445
+       is: 4445
+       ismerték: 4444
+       igaz: 4444
+       megsiratták: 4444
+       meggyászolták: 4444
+       ha: 4444
+       bohóságain: 4444
+       utóbb: 4444
+       mosolyogtak: 4444
+   Errors:
+       Min Absolute Error: 2316
+       Average Absolute Error: 4266.75
+       Max Absolute Error: 4443
+       Min Relative Error: 1.0878346641615781
+       Average Relative Error: 1742.011730690961
+       Max Relative Error: 4443.0
+
+Space Saving Counter with k = 35:
+   Top 10 most Frequent Words:
+       is: 2542
+       ha: 2540
+       szívből: 2540
+       utóbb: 2540
+       mosolyogtak: 2540
+       sokan: 2540
+       évek: 2540
+       mulva: 2540
+       fakadó: 2540
+       könnyekkel: 2540
+   Errors:
+       Min Absolute Error: 413
+       Average Absolute Error: 2431.0857142857144
+       Max Absolute Error: 2539
+       Min Relative Error: 0.19398778769375294
+       Average Relative Error: 832.1629563925786
+       Max Relative Error: 2539.0
+
+Space Saving Counter with k = 100:
+   Top 10 most Frequent Words:
+       is: 2129
+       don: 1299
+       sancho: 1231
+       quijote: 1049
+       ha: 934
+       őket: 867
+       szívből: 867
+       akarom: 866
+       néki: 866
+       végrendeletem: 866
+   Errors:
+       Min Absolute Error: 0
+       Average Absolute Error: 798.46
+       Max Absolute Error: 865
+       Min Relative Error: 0.0
+       Average Relative Error: 317.59175793775785
+       Max Relative Error: 865.0
+
